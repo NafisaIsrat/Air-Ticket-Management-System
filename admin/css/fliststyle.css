@@ -1,0 +1,113 @@
+body
+{
+	background-color : #CCC;
+	padding: 0px;
+	margin: 0px;
+}
+
+.container
+{
+	background-color: #fff;
+	width: 1000px;
+	height: 560px;
+	border-radius: 0.3px;
+	margin: 0px auto;
+	border-bottom: 2px solid #ccc;
+	margin-top: 10px;
+}
+
+.paragraph 
+{
+	background-color: #74ad5a;
+	color: white;
+	font-family: sans-serif;
+	font-size: 17px;
+	text-align: left;
+	border-radius: 0.3px;
+	padding: 15px; 0px; 15px; 0px;
+	margin-bottom: 20px;
+}
+
+.input
+{
+	width: 200px;
+	height: 30px;
+	border-radius: 0.2px;
+	border: none;
+	border: 1px solid #CCC;
+	margin-left: 25px;
+	padding-left: 05px;
+	border-left: 03px solid #27ae60;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+label
+{
+	margin-left: 15px;
+	font-family: sans-serif;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+h2
+{
+	margin-left: 15px;
+	font-family: sans-serif;
+	margin-top: 20px;
+	padding-left: 10px;
+}
+
+button.loginbtn
+{
+	position: relative;
+    right: -260px;
+	margin-left: 25px;
+	background-color:#74ad5a;
+	border:1px solid #3b6e22;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+}
+
+button.continuebtn
+{
+	position: relative;
+	margin-left: 25px;
+	background-color:#74ad5a;
+	border:1px solid #3b6e22;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:8px 24px;
+	text-decoration:none;
+}
+
+table
+{
+	border-collapse: collapse;
+	width: 95%;
+	font-family: sans-serif; 
+	text-align: center;
+}
+th 
+{
+	background-color: #27ae60;
+	color: white;
+	border: 2px solid #ddd;
+	padding: 6px 12px;
+}
+
+td
+ {
+	 border: 2px solid #ddd;
+	 padding: 15px;
+ }
